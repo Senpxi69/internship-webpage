@@ -104,6 +104,7 @@ body.active{
         left: -100%;
         top: 30px;
         gap: 0;
+        height: 100%;
         width: 100%;
         flex-direction: column;
         text-align: center;
